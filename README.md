@@ -2,7 +2,8 @@
 
 # Halo namaku Yuwandana dari prodi TIF22 BWS #
 
-![]([https://tenor.com/view/discord-dms-anime-roles-gif-24243011](https://media.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif))
+![](https://media.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif)
+
 
 Disini kita akan mencoba menghitung jumlah kata menggunakan phpunit
 nah ada beberapa langkah nih untuk mencobanya:
