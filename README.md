@@ -7,11 +7,12 @@ Disini kita akan mencoba menghitung jumlah kata menggunakan #PHPUNIT
 nah ada beberapa langkah nih untuk mencobanya:
 
 1. Pastikan sudah menginstal composer
-2. lakukan penginstalan phpunit dengan terminal lalu jalankan  
+2. buat folder dengan nama bebas di dalam htdocs dan jika menggunakan laragon bisa buat folder didalam www
+3. lakukan penginstalan phpunit dengan terminal lalu jalankan  
 
    composer require --dev phpunit/phpunit
 
-3. Jika Instalasi sudah selesai pastikan menambah 2 file atau copy kode diatas dan taruh diluar folder vendor dan pastikan nama file sama!
+4. Jika Instalasi sudah selesai pastikan menambah 2 file atau copy kode diatas dan taruh diluar folder vendor dan pastikan nama file sama!
 
    ![](img/2.png)
    
