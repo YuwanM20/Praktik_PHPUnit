@@ -12,10 +12,15 @@ nah ada beberapa langkah nih untuk mencobanya:
    composer require --dev phpunit/phpunit
 
 3. Jika Instalasi sudah selesai pastikan menambah 2 file atau copy kode diatas dan taruh diluar folder vendor dan pastikan nama file sama!
-4. lalu jalankan perintah
+
+![](img/1.png)
+   
+5. lalu jalankan perintah
 
 ./vendor/bin/phpunit --bootstrap vendor/autoload.php simpletest.php
 
 5. jika tampil test ok maka berhasil
+
+![](img/2.png)
 
 SELAMAT MENCOBA TEMAN-TEMAN
