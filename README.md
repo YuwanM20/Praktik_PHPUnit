@@ -19,7 +19,7 @@ nah ada beberapa langkah nih untuk mencobanya:
 
    ./vendor/bin/phpunit --bootstrap vendor/autoload.php simpletest.php
 
-6. jika tampil test ok maka berhasil
+6. jika tampil 1 test ok maka berhasil
 
    ![](img/1.png)
 
