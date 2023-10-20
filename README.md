@@ -1,4 +1,4 @@
-# Halo namaku Yuwandana dari prodi TIF22 BWS #
+# Halo namaku Yuwandana dari prodi TIF22 BWS
 
 ![](https://media.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif)
 
