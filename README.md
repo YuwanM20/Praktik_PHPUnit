@@ -1,11 +1,9 @@
-# TutorialPHPUnit
-
 # Halo namaku Yuwandana dari prodi TIF22 BWS #
 
 ![](https://media.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif)
 
 
-Disini kita akan mencoba menghitung jumlah kata menggunakan phpunit
+Disini kita akan mencoba menghitung jumlah kata menggunakan #PHPUNIT
 nah ada beberapa langkah nih untuk mencobanya:
 
 1. Pastikan sudah menginstal composer
