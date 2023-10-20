@@ -2,7 +2,7 @@
 // Menggunakan namespace PHPUnit dengan yang benar
 use PHPUnit\Framework\TestCase; 
 
- // Mengimpor kelas "wordcount.php" pada file "wordcount.php"
+ // Mengimpor kelas "wordcount" pada file "wordcount.php"
  require_once "wordcount.php";
 
  // Mendefinisikan kelas "SimpleTest" yang merupakan tes unit dan turunan dari TestCase yang ada di framword
